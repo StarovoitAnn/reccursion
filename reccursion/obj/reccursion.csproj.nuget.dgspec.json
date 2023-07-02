@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\repositories\\reccursion\\reccursion\\reccursion.csproj": {}
+    "C:\\repositories\\reccursion\\reccursion\\reccursion.csproj": {}
   },
   "projects": {
-    "c:\\repositories\\reccursion\\reccursion\\reccursion.csproj": {
+    "C:\\repositories\\reccursion\\reccursion\\reccursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\repositories\\reccursion\\reccursion\\reccursion.csproj",
+        "projectUniqueName": "C:\\repositories\\reccursion\\reccursion\\reccursion.csproj",
         "projectName": "reccursion",
-        "projectPath": "c:\\repositories\\reccursion\\reccursion\\reccursion.csproj",
+        "projectPath": "C:\\repositories\\reccursion\\reccursion\\reccursion.csproj",
         "packagesPath": "C:\\Users\\annst\\.nuget\\packages\\",
-        "outputPath": "c:\\repositories\\reccursion\\reccursion\\obj\\",
+        "outputPath": "C:\\repositories\\reccursion\\reccursion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\annst\\AppData\\Roaming\\NuGet\\NuGet.Config"
