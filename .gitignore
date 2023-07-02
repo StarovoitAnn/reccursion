@@ -32,3 +32,4 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+reccursion/obj/Debug/net7.0/reccursion.GeneratedMSBuildEditorConfig.editorconfig
